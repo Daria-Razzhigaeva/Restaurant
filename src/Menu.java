@@ -1,9 +1,4 @@
-package takeout;
-
-import static takeout.utils.PrintUtils.*;
-import static takeout.utils.PrintUtils.CommonPrintMethods.*;
-import static takeout.utils.PrintUtils.PrintTitles.*;
-import static takeout.utils.PrintUtils.printSpaces.*;
+import static utils.PrintUtils.*;
 
 public class Menu {
 

@@ -1,5 +1,3 @@
-package takeout;
-
 public class MainDish {
     private String mainDishName;
     private double mainDishPrice;

@@ -1,5 +1,3 @@
-package takeout;
-
 public class Side {
     private String sideName;
     private double sidePrice;

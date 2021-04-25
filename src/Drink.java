@@ -1,5 +1,3 @@
-package takeout;
-
 public final class Drink {
     private final String drinkName;
     private final double drinkPrice;
